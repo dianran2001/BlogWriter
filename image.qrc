@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/new_blog.png</file>
+        <file>image/store.png</file>
+        <file>image/publish.png</file>
+    </qresource>
+</RCC>
